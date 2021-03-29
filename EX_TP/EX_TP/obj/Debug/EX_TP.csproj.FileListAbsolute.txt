@@ -1,0 +1,35 @@
+C:\anas fartas\S2\C#\TPs\TP1\v2\EX_TP\EX_TP\bin\Debug\EX_TP.exe.config
+C:\anas fartas\S2\C#\TPs\TP1\v2\EX_TP\EX_TP\bin\Debug\EX_TP.exe
+C:\anas fartas\S2\C#\TPs\TP1\v2\EX_TP\EX_TP\bin\Debug\EX_TP.pdb
+C:\anas fartas\S2\C#\TPs\TP1\v2\EX_TP\EX_TP\obj\Debug\EX_TP.csprojAssemblyReference.cache
+C:\anas fartas\S2\C#\TPs\TP1\v2\EX_TP\EX_TP\obj\Debug\EX_TP.csproj.CoreCompileInputs.cache
+C:\anas fartas\S2\C#\TPs\TP1\v2\EX_TP\EX_TP\obj\Debug\EX_TP.exe
+C:\anas fartas\S2\C#\TPs\TP1\v2\EX_TP\EX_TP\obj\Debug\EX_TP.pdb
+C:\Users\user\Desktop\Atelier2-main\EX_TP\EX_TP\bin\Debug\EX_TP.exe.config
+C:\Users\user\Desktop\Atelier2-main\EX_TP\EX_TP\bin\Debug\EX_TP.exe
+C:\Users\user\Desktop\Atelier2-main\EX_TP\EX_TP\bin\Debug\EX_TP.pdb
+C:\Users\user\Desktop\Atelier2-main\EX_TP\EX_TP\obj\Debug\EX_TP.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Atelier2-main\EX_TP\EX_TP\obj\Debug\EX_TP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Atelier2-main\EX_TP\EX_TP\obj\Debug\EX_TP.exe
+C:\Users\user\Desktop\Atelier2-main\EX_TP\EX_TP\obj\Debug\EX_TP.pdb
+C:\anas fartas\S2\C#\TPs\Atelier\v3\Atelier2-main\EX_TP\EX_TP\bin\Debug\EX_TP.exe.config
+C:\anas fartas\S2\C#\TPs\Atelier\v3\Atelier2-main\EX_TP\EX_TP\bin\Debug\EX_TP.exe
+C:\anas fartas\S2\C#\TPs\Atelier\v3\Atelier2-main\EX_TP\EX_TP\bin\Debug\EX_TP.pdb
+C:\anas fartas\S2\C#\TPs\Atelier\v3\Atelier2-main\EX_TP\EX_TP\obj\Debug\EX_TP.csprojAssemblyReference.cache
+C:\anas fartas\S2\C#\TPs\Atelier\v3\Atelier2-main\EX_TP\EX_TP\obj\Debug\EX_TP.csproj.CoreCompileInputs.cache
+C:\anas fartas\S2\C#\TPs\Atelier\v3\Atelier2-main\EX_TP\EX_TP\obj\Debug\EX_TP.exe
+C:\anas fartas\S2\C#\TPs\Atelier\v3\Atelier2-main\EX_TP\EX_TP\obj\Debug\EX_TP.pdb
+C:\anas fartas\S2\C#\TPs\Atelier\v3\Atelier3-main\EX_TP\EX_TP\bin\Debug\EX_TP.exe.config
+C:\anas fartas\S2\C#\TPs\Atelier\v3\Atelier3-main\EX_TP\EX_TP\bin\Debug\EX_TP.exe
+C:\anas fartas\S2\C#\TPs\Atelier\v3\Atelier3-main\EX_TP\EX_TP\bin\Debug\EX_TP.pdb
+C:\anas fartas\S2\C#\TPs\Atelier\v3\Atelier3-main\EX_TP\EX_TP\obj\Debug\EX_TP.csprojAssemblyReference.cache
+C:\anas fartas\S2\C#\TPs\Atelier\v3\Atelier3-main\EX_TP\EX_TP\obj\Debug\EX_TP.csproj.CoreCompileInputs.cache
+C:\anas fartas\S2\C#\TPs\Atelier\v3\Atelier3-main\EX_TP\EX_TP\obj\Debug\EX_TP.exe
+C:\anas fartas\S2\C#\TPs\Atelier\v3\Atelier3-main\EX_TP\EX_TP\obj\Debug\EX_TP.pdb
+C:\Users\user\Desktop\Atelier3-main\EX_TP\EX_TP\obj\Debug\EX_TP.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Atelier3-main\EX_TP\EX_TP\obj\Debug\EX_TP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Atelier3-main\EX_TP\EX_TP\obj\Debug\EX_TP.exe
+C:\Users\user\Desktop\Atelier3-main\EX_TP\EX_TP\obj\Debug\EX_TP.pdb
+C:\Users\user\Desktop\Atelier3-main\EX_TP\EX_TP\bin\Debug\EX_TP.exe.config
+C:\Users\user\Desktop\Atelier3-main\EX_TP\EX_TP\bin\Debug\EX_TP.exe
+C:\Users\user\Desktop\Atelier3-main\EX_TP\EX_TP\bin\Debug\EX_TP.pdb
